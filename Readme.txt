@@ -14,3 +14,8 @@
 //		        entity, 
 //		        String.class);
 		
+		
+		Reference :: https://www.baeldung.com/spring-uricomponentsbuilder 
+		
+		UriComponentsBuilder class helps to create UriComponents instances by providing fine-grained control over all aspects of 
+		preparing a URI including construction, expansion from template variables, and encoding.
